@@ -1,2 +1,3 @@
 # AI-competitions
-Data Science and Artificial Intelligence challenges and competitions
+
+Various Data Science and Artificial Intelligence challenges
